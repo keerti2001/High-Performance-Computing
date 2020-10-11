@@ -1,4 +1,4 @@
-For compiling C programs: 
+For compiling C programs: <br />
 gcc -o output program.c -fopenmp 
 ./output
 
