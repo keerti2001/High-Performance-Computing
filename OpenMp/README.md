@@ -1,4 +1,4 @@
-For compiling C++ programs :
+For compiling C++ programs : <br\>
    g++ -o output program.cpp -fopenmp
    ./output
    
